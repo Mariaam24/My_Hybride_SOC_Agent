@@ -1,0 +1,7 @@
+{"question": "What should I check first when a suspicious email is reported?", "answer_note": "phishing", "must_contain": "mapping its recipients", "kind": "original"}
+{"question": "Which AD FS event IDs point to bad credentials or an extranet lockout?", "answer_note": "account_compromise", "must_contain": "Event IDs 411 and 342", "kind": "original"}
+{"question": "What priority applies when customer or personal data access is confirmed?", "answer_note": "severity", "must_contain": "maps to P1", "kind": "original"}
+{"question": "Which result code does the Azure lockout Sigma rule look for?", "answer_note": "siem_detection", "must_contain": "ResultType 50053", "kind": "original"}
+{"question": "What weakness category and remediation due date are listed for the first KEV record?", "answer_note": "vulnerability", "must_contain": "CWE-502", "kind": "original"}
+{"question": "Which audit sources should be enabled to investigate destructive cloud activity?", "answer_note": "ransomware", "must_contain": "S3 and KMS data events", "kind": "original"}
+{"question": "What is the administrator password?", "answer_note": null, "kind": "original"}

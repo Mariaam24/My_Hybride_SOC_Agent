@@ -1,0 +1,21 @@
+{"question": "What should I check first when a suspicious email is reported?", "answer_note": "phishing", "must_contain": "mapping its recipients", "kind": "original"}
+{"question": "Which AD FS event IDs point to bad credentials or an extranet lockout?", "answer_note": "account_compromise", "must_contain": "Event IDs 411 and 342", "kind": "original"}
+{"question": "What priority applies when customer or personal data access is confirmed?", "answer_note": "severity", "must_contain": "maps to P1", "kind": "original"}
+{"question": "Which result code does the Azure lockout Sigma rule look for?", "answer_note": "siem_detection", "must_contain": "ResultType 50053", "kind": "original"}
+{"question": "What weakness category and remediation due date are listed for the first KEV record?", "answer_note": "vulnerability", "must_contain": "CWE-502", "kind": "original"}
+{"question": "Which audit sources should be enabled to investigate destructive cloud activity?", "answer_note": "ransomware", "must_contain": "S3 and KMS data events", "kind": "original"}
+{"question": "What is the administrator password?", "answer_note": null, "kind": "original"}
+{"question": "How do I determine everyone who received the deceptive message?", "answer_note": "phishing", "must_contain": "mapping its recipients", "kind": "paraphrase"}
+{"question": "What recording detail should be set on the federation service before an investigation?", "answer_note": "account_compromise", "must_contain": "verbose AD FS auditing", "kind": "paraphrase"}
+{"question": "Which ATT&CK identifier is associated with an adversary using legitimate sign-in access to get in or stay in?", "answer_note": "account_compromise", "must_contain": "T1078", "kind": "paraphrase"}
+{"question": "What chain-of-custody details should accompany collected artifacts?", "answer_note": "escalation", "must_contain": "acquisition time and collector", "kind": "paraphrase"}
+{"question": "Which tier applies when a breach is established and account-to-account movement or misuse of elevated credentials appears?", "answer_note": "severity", "must_contain": "P2 is high priority", "kind": "paraphrase"}
+{"question": "What sequence does the response follow from advance readiness through the lessons-review stage?", "answer_note": "severity", "must_contain": "preparation, detection and analysis", "kind": "paraphrase"}
+{"question": "What activity label and event class trigger the repository platform alert?", "answer_note": "siem_detection", "must_contain": "User login failed", "kind": "paraphrase"}
+{"question": "Who makes the product named on the first record in the supplied exploited-vulnerability list?", "answer_note": "vulnerability", "must_contain": "Perforce Puppet Enterprise", "kind": "paraphrase"}
+{"question": "Where should responders place preserved copies so later technical examination remains possible?", "answer_note": "ransomware", "must_contain": "to a forensic account", "kind": "paraphrase"}
+{"question": "What should be invalidated to end currently authenticated activity during cleanup?", "answer_note": "phishing", "must_contain": "revoke active sessions", "kind": "paraphrase"}
+{"question": "How long may an employee wait before reporting a phishing email?", "answer_note": null, "kind": "in-domain-absent"}
+{"question": "How many minutes should ransomware containment take?", "answer_note": null, "kind": "in-domain-absent"}
+{"question": "What is the hourly price of parking at the airport?", "answer_note": null, "kind": "out-of-domain"}
+{"question": "Will it rain in Casablanca tomorrow?", "answer_note": null, "kind": "out-of-domain"}

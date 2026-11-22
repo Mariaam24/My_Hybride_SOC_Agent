@@ -1,0 +1,6 @@
+asset,depends_on,role
+app-hr,srv-12,restricted
+app-payroll,srv-12,restricted
+srv-12,db-01,restricted
+siem-core,db-01,restricted
+db-01,,restricted

@@ -1,0 +1,8 @@
+topic,team
+phishing,L1
+account_compromise,L1
+severity,L1
+Ransomware ,IR
+escalation, IR
+siem_detection,Platform
+vulnerability,Platform
